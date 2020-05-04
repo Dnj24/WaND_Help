@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliaslist version="1.0">
+  <alias name="FIRST_TOPIC" value="1" link="../../contents/WaND_Help/First_Topic.htm"></alias>
+  <alias name="SECOND_TOPIC" value="2" link="../../contents/WaND_Help/Second_Topic.htm"></alias>
+</aliaslist>
